@@ -35,7 +35,6 @@ function isPositive(a) {
     }
 }
     
-}
 
 
 function main() {
