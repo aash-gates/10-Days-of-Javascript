@@ -1,14 +1,3 @@
-
-Homecoding problemsHackerRank Day 3: Arrays 10 days of javascript solution
-HackerRank Day 3: Arrays 10 days of javascript solution
-YASH PAL February 07, 2021
-
-In this HackerRank Day 3: Arrays 10 days of javascript problem Complete the getSecondLargest function in the editor below. It has one parameter: an array, nums, of n numbers. The function must find and return the second largest number in nums.
-HackerRank Day 3: Arrays 10 days of javascript solution
-
-
-HackerRank Day 3: Arrays 10 days of javascript problem solution.
-
 'use strict';
 
 process.stdin.resume();
